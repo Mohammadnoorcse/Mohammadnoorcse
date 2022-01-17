@@ -12,7 +12,7 @@ Skills: HTML / CSS/java
 - 🌱 I’m currently learning Machine learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammadnoorcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mohammad Noor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mohammad.noor_/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mohammadnoorcse)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mohammad.noor_/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohammadnoorcse)](https://github.com/ryo-ma/github-profile-trophy)
 
